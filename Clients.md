@@ -15,9 +15,10 @@ Please do not make large edits to this page and leave it without the columns it 
 
 ## Importing from Last.fm?
 
-* This is in active development.
-* If you are an established Libre.fm user (ie. you have more than 1000-2000 scrobbles, you've been registered for a few years and would like to try this out, please email support.)
-* For now, we're only pulling in future scrobbles, however the ability to backfill your account is also in the works.
+* This is in active development. A few people are already using it (such as mattl and https://libre.fm/user/scatterkeir)
+* If you are an **established** Libre.fm user (ie. you have more than 1000-2000 scrobbles, you've been registered for a few years and would like to try this out, please email support.)
+* There will be bugs.
+* For now, we're only pulling in **future scrobbles**, however the ability to backfill your account is also in the works.
 
 ---
 
