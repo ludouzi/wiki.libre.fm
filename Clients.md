@@ -6,13 +6,18 @@ Please do not make large edits to this page and leave it without the columns it 
 
 ## New user? 
 
-
 * We recommend [[Web Scrobbler]] for streaming music (Apple Music, Spotify, etc) playing in a web browser.
 * If you have a collection of local music on your computer, we recommend [[DeaDBeef]]
 
 [![image1-7](https://github.com/user-attachments/assets/335a4d8f-7e6e-4de1-b809-b80d8a6516b1)](#)
 
 ---
+
+## Importing from Last.fm?
+
+* This is in active development.
+* If you are an established Libre.fm user (ie. you have more than 1000-2000 scrobbles, you've been registered for a few years and would like to try this out, please email support.)
+* For now, we're only pulling in future scrobbles, however the ability to backfill your account is also in the works.
 
 See https://github.com/foocorp/documentation/wiki/Contributing-to-the-wiki to find out how to make changes here.
 
@@ -59,6 +64,5 @@ For each client, we'd like to know:
 | [[Quod Libet]]            | qlb         | N/A                                     | Yes                | No         |
 | [[RhythmBox]]             | rbx         |                                         | No                 |            |
 | [[Simple Scrobbler]]      | sls         | N/A                                     | Yes                | No         |
-| [[Strawberry]]            | N/A         | N/A                                     | No                 | No         |
 | [[Turntable]]             | N/A         | @GeopJr                                 | No                 | No         |
 | [[Web Scrobbler]]         | N/A         |                                         | No                 | No         |
