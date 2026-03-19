@@ -2,11 +2,12 @@ The multimedia application supports a music library, multiple playlists, interne
 
 Rhythmbox is part of the Gnome project, free software, licensed under the GNU GPL.
 
-* [Project website](https://gitlab.gnome.org/GNOME/rhythmbox)
+* Website: https://gitlab.gnome.org/GNOME/rhythmbox
 
 ### Who's using it?
 
-* [hoffz][0]
+* [hasienda][0] ([hoffz][1] on libre.fm)
 * Add your username/URL here
 
-[0]: https://libre.fm/user/hoffz
+[0]: https://github.com/hasienda
+[1]: https://libre.fm/user/hoffz
