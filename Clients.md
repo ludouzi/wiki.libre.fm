@@ -67,7 +67,7 @@ For each client, we'd like to know:
 | [[Pano Scrobbler]]        | N/A         | @kawaiiDango                            | No                 | No         |
 | [[Qmmp]]                  | qmm         | N/A                                     | No                 | No         |
 | [[Quod Libet]]            | qlb         | N/A                                     | Yes                | No         |
-| [[RhythmBox]]             | rbx         |                                         | No                 |            |
+| [[RhythmBox]]             | rbx         | @jmatthew                               | No                 | No         |
 | [[Simple Scrobbler]]      | sls         | N/A                                     | Yes                | No         |
 | [[Turntable]]             | N/A         | @GeopJr                                 | No                 | No         |
 | [[Web Scrobbler]]         | N/A         |                                         | No                 | No         |
