@@ -60,6 +60,7 @@ For each client, we'd like to know:
 | [[Cuberok]]               | cub         | N/A                                     | Yes                | No         |
 | [[DeaDBeeF]]              | ddb         | N/A                                     | Yes                | No         |
 | [[Foobar2000]]            | foo         | N/A                                     | Yes                | No         |
+| [[fooyin]]                | N/A         | @ludouzi                                | No                 | No         |
 | [[Last.fm player]]        | ass         | N/A                                     | Yes                | No         |
 | [[mpdscribble]]           | mdc         |                                         | Yes                | No         |
 | [[mpris-scrobbler]]       | N/A         | @mariusor                               | Yes                | No         |
